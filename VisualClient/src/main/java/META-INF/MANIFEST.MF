@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: com.example.visualclient.Launcher
+Class-Path: javafx-controls-17.0.0.1.jar javafx-base-17.0.0.1.jar javafx
+ -media-17.0.0.1.jar javafx-fxml-17.0.0.1-win.jar javafx-fxml-17.0.0.1.j
+ ar javafx-graphics-17.0.0.1-win.jar javafx-media-17.0.0.1-win.jar javaf
+ x-graphics-17.0.0.1.jar bootstrapfx-core-0.4.0.jar controlsfx-11.1.0.ja
+ r javafx-base-17.0.0.1-win.jar formsfx-core-11.3.2.jar validatorfx-0.1.
+ 13.jar ikonli-core-12.2.0.jar javafx-swt.jar javafx.base.jar javafx.fxm
+ l.jar javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.grap
+ hics.jar javafx-swt.jar javafx.base.jar javafx.fxml.jar javafx.media.ja
+ r javafx.swing.jar javafx.controls.jar javafx.graphics.jar ikonli-javaf
+ x-12.2.0.jar javafx-controls-17.0.0.1-win.jar
+
